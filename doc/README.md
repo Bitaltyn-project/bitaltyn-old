@@ -25,12 +25,12 @@ You need the Qt4 run-time libraries to run Bitaltyn-Qt. On Debian or Ubuntu:
 
 Unpack the files into a directory and run:
 
-- bin/32/litecoin-qt (GUI, 32-bit)
-- bin/32/litecoind (headless, 32-bit)
-- bin/64/litecoin-qt (GUI, 64-bit)
-- bin/64/litecoind (headless, 64-bit)
+- bin/32/bitaltyn-qt (GUI, 32-bit)
+- bin/32/bitaltynd (headless, 32-bit)
+- bin/64/bitaltyn-qt (GUI, 64-bit)
+- bin/64/bitaltynd (headless, 64-bit)
 
-See the documentation at the [Bitaltyn Wiki](http://litecoin.info)
+See the documentation at the [Bitaltyn Wiki](http://bitaltyn.info)
 for help and more information.
 
 

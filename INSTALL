@@ -4,6 +4,6 @@ See doc/readme-qt.rst for instructions on building Bitaltyn-Qt,
 the intended-for-end-users, nice-graphical-interface, reference
 implementation of Bitaltyn.
 
-See doc/build-*.txt for instructions on building litecoind,
+See doc/build-*.txt for instructions on building bitaltynd,
 the intended-for-services, no-graphical-interface, reference
 implementation of Bitaltyn.

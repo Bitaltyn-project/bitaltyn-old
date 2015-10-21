@@ -84,6 +84,6 @@ Bitaltyn
 -------
 MSYS shell:
 
-	cd \litecoin\src
+	cd \bitaltyn\src
 	mingw32-make -f makefile.mingw
-	strip litecoind.exe
+	strip bitaltynd.exe
